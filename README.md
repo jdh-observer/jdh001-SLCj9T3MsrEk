@@ -1,6 +1,6 @@
 # Feminist commemoration of the 1916 Easter Rising and the ethics of Twitter as data
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/jdh001-SLCj9T3MsrEk/main?filepath=jdh_twitter5_anonymised.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/jdh001-SLCj9T3MsrEk/main?filepath=jdh_twitter_1916.ipynb)
 
 ## Abstract
 
